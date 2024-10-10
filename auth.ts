@@ -1,3 +1,4 @@
+//package doesn't seem to exist
 import NextAuth from "next-auth";
 import Github from "next-auth/providers/github";
 // Auth Config
